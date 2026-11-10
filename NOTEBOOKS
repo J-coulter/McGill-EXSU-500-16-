@@ -1,0 +1,13 @@
+
+# Notebooks
+
+This folder contains Jupyter notebooks for the EXSU 500
+drug-target binding affinity prediction project.
+
+## Dataset Investigation
+
+01_bindingdb_investigation.ipynb
+
+Exploratory analysis of the BindingDB_Kd dataset,
+including data quality assessment, pKd transformation,
+duplicate measurements, and aggregation sensitivity.
