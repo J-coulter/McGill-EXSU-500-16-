@@ -1,0 +1,16 @@
+Measurement,Value
+Raw dataset records,52274.0
+Unique drug structures,10661.0
+Unique protein sequences,1413.0
+Missing Target_ID values,4333.0
+Zero Kd measurements,2.0
+Valid positive-Kd records,52272.0
+"Records at Kd = 10,000 nM",22184.0
+"Percentage at Kd = 10,000 nM",42.44
+Invalid SMILES,0.0
+Unique drug-target pairs,46115.0
+Pairs with repeated measurements,3488.0
+Maximum measurements per pair,27.0
+Pairs affected by aggregation,3488.0
+Mean difference among affected pairs,0.8016
+Maximum pKd difference,8.0
